@@ -47,6 +47,7 @@ body {
 
 .addres-link {
   color: var(--main-text-color);
+  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -143,11 +144,13 @@ body {
 .footer-links {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+  font-style: normal;
 }
 
 .footer-address {
   color: var(--complementary-color);
   text-decoration: none;
+  font-style: normal;
 }
 .button {
   color: var(--title-color);
@@ -157,6 +160,7 @@ body {
   line-height: 1.62;
   text-align: center;
   cursor: pointer;
+  font-family: inherit.;
 }
 
 .button:hover {
@@ -165,6 +169,7 @@ body {
 }
 .button-list {
   list-style-type: none;
+  font-family: inherit;
 }
 
 .visually-hidden {
