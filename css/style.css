@@ -118,7 +118,7 @@ body {
   background-color: var(--hover-focus-color);
 }
 
-li .title {
+.title {
   color: var(--title-color);
   font-weight: 700;
   font-size: 36px;
