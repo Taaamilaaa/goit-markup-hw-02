@@ -14,11 +14,20 @@ body {
   letter-spacing: 0.03em;
 }
 .logo {
+  color: var(--complementary-color);
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  text-decoration: none;
+}
+
+.logo-footer {
   color: #000000;
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   text-decoration: none;
 }
 
@@ -95,6 +104,11 @@ body {
 .hero-title {
   color: var(--complementary-color);
   font-weight: 900;
+  font-size: 44px;
+  line-height: 1, 36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 .hero-button {
