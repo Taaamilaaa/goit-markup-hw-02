@@ -13,8 +13,9 @@ body {
   font-family: 'Roboto', sans-serif;
   letter-spacing: 0.03em;
 }
-.logo {
-  color: var(--complementary-color);
+
+.logo-heder {
+  color: black;
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
@@ -23,7 +24,7 @@ body {
 }
 
 .logo-footer {
-  color: #000000;
+  color: var(--complementary-color);
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
